@@ -1,0 +1,4 @@
+# Tehnologii folosite
+C# (LINQ)
+
+
